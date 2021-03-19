@@ -86,19 +86,7 @@ p {
     background-color: #2589bd;
 }
 /* remove next 3 superflous expressions*/
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
 }
 /*remove 2 redundant expressions below*/
 .media-card2 {
